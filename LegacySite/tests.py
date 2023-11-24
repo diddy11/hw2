@@ -2,7 +2,6 @@ from django.test import TestCase
 from LegacySite.models import Card
 
 # Create your tests here.
-
 class MyTest(TestCase):
     # Django's test run with an empty database. We can populate it with
     # data by using a fixture. You can create the fixture by running:
